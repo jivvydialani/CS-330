@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(390,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(519,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(520,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(524,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(525,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(527,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(528,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rajiv\source\repos\3DScene_RajivDialani\Source.cpp(537,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3DScene_RajivDialani.vcxproj -> C:\Users\rajiv\source\repos\3DScene_RajivDialani\Debug\3DScene_RajivDialani.exe
