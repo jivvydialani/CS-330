@@ -1,5 +1,14 @@
 # CS-330 Comp Graphic and Visualization
 
+![design proposal](https://github.com/jivvydialani/CS-330/blob/main/IMG_0085%202.JPG)
+
+![completed work] ()
+
+
+
+
+
+----
 ### 1. How do I approach designing software?
   * #### What new design skills has your work on the project helped you to craft?
     The design skills I learned in this course helped me create create a 3D scene out of a 2D image. I am able to mimic objects using different primitive shapes. I created complex objects using a combination of primitive shapes. I learned how to manipulate the lighting of my scene to create a more realistic and immersive experience. I also learned that using textures properly can help visually trick the viewer into seeing different depths.
