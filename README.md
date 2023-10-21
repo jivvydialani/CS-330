@@ -2,7 +2,7 @@
 
 ![design proposal](https://github.com/jivvydialani/CS-330/blob/main/IMG_0085%202.JPG)
 
-![completed work] ()
+![completed work](https://github.com/jivvydialani/CS-330/blob/main/Picture1.png)
 
 
 
