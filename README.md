@@ -1,13 +1,5 @@
 # CS-330 Comp Graphic and Visualization
-
-![design proposal](https://github.com/jivvydialani/CS-330/blob/main/IMG_0085%202.JPG)
-
 ![completed work](https://github.com/jivvydialani/CS-330/blob/main/Picture1.png)
-
-
-
-
-
 ----
 ### 1. How do I approach designing software?
   * #### What new design skills has your work on the project helped you to craft?
